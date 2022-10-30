@@ -10,5 +10,5 @@ let count+=1
 fi
 done
 
-echo Средний размер файла в дериктории:
+echo Средний размер файла в дериктории count:
 expr $sumsizefile / $count
